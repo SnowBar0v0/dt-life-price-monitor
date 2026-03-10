@@ -1,5 +1,13 @@
-# DT Life Price Monitor
+# DT生活价格监控
 
-DT生活价格监控系统
+DT地区生活价格自动监控工具。
 
-Author: SnowBar0v0
+## 功能
+
+- 自动抓取商品价格
+- 价格变化提醒
+- 数据记录
+
+## 作者
+
+SnowBar0v0
